@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ex7Client</string>
+    <string name="buttomCall">Call</string>
+    <string name="buttomSurf">Surf</string>
+    <string name="buttomMail">Mail</string>
+    <string name="buttomRegister">Register</string>
+</resources>
