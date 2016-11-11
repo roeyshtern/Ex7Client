@@ -24,6 +24,7 @@
             android:layout_weight="1" />
 
         <Button
+            android:onClick="buttonOptions"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/buttomCall"
@@ -47,6 +48,7 @@
             android:layout_weight="1" />
 
         <Button
+            android:onClick="buttonOptions"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/buttomSurf"
@@ -68,6 +70,7 @@
             android:layout_weight="1" />
 
         <Button
+            android:onClick="buttonOptions"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/buttomMail"
@@ -90,6 +93,7 @@
             android:layout_weight="1" />
 
         <Button
+            android:onClick="buttonOptions"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/buttomRegister"
